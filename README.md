@@ -15,6 +15,26 @@ where n is the total number of players and the sum extends over all subsets S of
 The enviornment is as follows:
 - python 3.6.x
 - windows 10
+- [scikit-learn](https://scikit-learn.org/stable/#)
+- [shap](https://shap.readthedocs.io/en/latest/index.html#)
+
 
 ## Sample Dataset
 The dataset used in this notebook is taken from the [Kaggle-titanic](https://www.kaggle.com/c/titanic) competition.
+The main objective is to predict wheather a passenger will survive.
+
+## SHAP analysis
+Features Summary Plot
+![Summary](fig/summary_plot.png)
+
+Features Summary Bar
+![Bar_summary](fig/summary_bar.png)
+
+Explained by Sex
+![Sex](fig/depend_sex.png)
+
+Explained by Pclass
+![Pclass](fig/depend_pclass.png)
+
+Explained by Age
+![Age](fig/depend_age.png)
