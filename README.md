@@ -33,10 +33,10 @@ Features Summary Bar
 ![Bar_summary](fig/summary_bar.png)
 
 Explained by Sex
-![Sex](fig/depend_sex.png)
+![Sex](fig/depend_Sex.png)
 
 Explained by Pclass
-![Pclass](fig/depend_pclass.png)
+![Pclass](fig/depend_Pclass.png)
 
 Explained by Age
-![Age](fig/depend_age.png)
+![Age](fig/depend_Age.png)
