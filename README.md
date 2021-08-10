@@ -11,6 +11,8 @@ The main idea of SHAP rests upon the following equation where it captures the av
 
 where n is the total number of players and the sum extends over all subsets S of N not containing player i. The formula can be interpreted as follows: imagine the coalition being formed one actor at a time, with each actor demanding their contribution <img src="https://render.githubusercontent.com/render/math?math=v(S \cup {i}) - v(S)"> as a fair compensation, and then for each actor take the average of this contribution over the possible different permutations in which the coalition can be formed.
 
+Reference: [Shapley Values](https://towardsdatascience.com/one-feature-attribution-method-to-supposedly-rule-them-all-shapley-values-f3e04534983d)
+
 ## Enviornment
 The enviornment is as follows:
 - python 3.6.x
