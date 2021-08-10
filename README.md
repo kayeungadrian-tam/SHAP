@@ -27,16 +27,21 @@ The main objective is to predict wheather a passenger will survive.
 
 ## SHAP analysis
 Features Summary Plot
+
 ![Summary](fig/summary_plot.png)
 
 Features Summary Bar
+
 ![Bar_summary](fig/summary_bar.png)
 
 Explained by Sex
+
 ![Sex](fig/depend_Sex.png)
 
 Explained by Pclass
+
 ![Pclass](fig/depend_Pclass.png)
 
 Explained by Age
+
 ![Age](fig/depend_Age.png)
